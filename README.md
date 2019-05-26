@@ -1,6 +1,11 @@
 # Overview
  - Web page for CTF
 
+## Front(Vue.js)
+![front](./assets/front.gif)
+
+## Back(JSON server)
+![back](./assets/back.gif)
 
 
 # Features
