@@ -1,0 +1,2 @@
+ - [ ] Using Docker
+ - [ ] Adopt k8s or docker-compose
